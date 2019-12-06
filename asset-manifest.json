@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b0c889d.chunk.css",
+    "main.js": "/static/js/main.f7e29e92.chunk.js",
+    "main.js.map": "/static/js/main.f7e29e92.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0b8d289b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0b8d289b.js.map",
+    "static/js/2.da98cff6.chunk.js": "/static/js/2.da98cff6.chunk.js",
+    "static/js/2.da98cff6.chunk.js.map": "/static/js/2.da98cff6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.67c43dc6c5eb51bd4798d92b91f5fd48.js": "/precache-manifest.67c43dc6c5eb51bd4798d92b91f5fd48.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6b0c889d.chunk.css.map": "/static/css/main.6b0c889d.chunk.css.map",
+    "static/media/codeconf.gif": "/static/media/codeconf.7633ced8.gif",
+    "static/media/mdb.png": "/static/media/mdb.ba0f6e61.png",
+    "static/media/react.png": "/static/media/react.47ce6e77.png",
+    "static/media/sass.png": "/static/media/sass.c5e5fadb.png",
+    "static/media/scisquare.gif": "/static/media/scisquare.2028fc28.gif",
+    "static/media/shootio.gif": "/static/media/shootio.27f5b460.gif",
+    "static/media/solarsystem.gif": "/static/media/solarsystem.809e8b80.gif",
+    "static/media/techtube.gif": "/static/media/techtube.db05e5fe.gif",
+    "static/media/typescript.svg": "/static/media/typescript.8adc822a.svg",
+    "static/media/unity.png": "/static/media/unity.4d94ac7b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b8d289b.js",
+    "static/js/2.da98cff6.chunk.js",
+    "static/css/main.6b0c889d.chunk.css",
+    "static/js/main.f7e29e92.chunk.js"
+  ]
+}
